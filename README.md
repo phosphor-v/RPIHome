@@ -17,7 +17,7 @@ Templuary repo for fast install.
 
 
 
-**CHANGE DIRECTORY IN compose.yml TO YOURS. "pi" USER USES AS DEFAULT.
+**CHANGE DIRECTORY IN compose.yml TO YOURS. "pi" USER USES AS DEFAULT.**
 
 
 4) Open terminal and print
