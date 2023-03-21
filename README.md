@@ -29,4 +29,4 @@ Templuary repo for fast install.
 After this your HomeAssistant server will be avaible with address *DEVICEIPADDRESS*:8123
 
 
-ESPHome will able with address *DEVICEIPADDRESS*:6052
+ESPHome will be avaible with address *DEVICEIPADDRESS*:6052
